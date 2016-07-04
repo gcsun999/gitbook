@@ -1,3 +1,10 @@
-# First Chapter
+# 第一部 免費自由的世界
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+![](/assets/19190733_1569643926381768_84149465_n.jpg)
+
+### 免費自由的世界早就已經存在了, 人類也早就已經做到, 就在每一個心存善念的善行中, 那一種可以不求回報的付出就是免費自由世界真正的本質。
+
+#### 
+
+
+

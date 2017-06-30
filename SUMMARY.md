@@ -6,5 +6,5 @@
 * [第一部 免費自由的世界](chapter1.md)
   * [第一章 免費生活是天地原本無條件給予的設計](chapter1/di-yi-zhang-mian-fei-sheng-huo-shi-tian-di-yuan-ben-wu-tiao-jian-gei-yu-de-she-ji.md)
   * [第二章 貨幣制度的濫觴](chapter1/di-er-zhang-huo-bi-zhi-du-de-lan-shang.md)
-  * [第三章 免費自由世界的根本精神 - 共享主義](chapter1/di-san-zhang-mian-fei-zi-you-shi-jie-de-gen-ben-jing-shen-gong-xiang-zhu-yi.md)
+  * [第三章 免費自由世界的根本主義 - 共享主義](chapter1/di-san-zhang-mian-fei-zi-you-shi-jie-de-gen-ben-jing-shen-gong-xiang-zhu-yi.md)
 

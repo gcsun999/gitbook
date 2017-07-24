@@ -8,4 +8,5 @@
   * [第二章 貨幣制度的濫觴](chapter1/di-er-zhang-huo-bi-zhi-du-de-lan-shang.md)
   * [第三章 免費自由世界的根本主義 - 共享主義](chapter1/di-san-zhang-mian-fei-zi-you-shi-jie-de-gen-ben-jing-shen-gong-xiang-zhu-yi.md)
   * [第四章 免費自由世界的根本法 - 地球公法](chapter1/di-si-zhang-mian-fei-zi-you-shi-jie-de-gen-ben-fa-di-qiu-gong-fa.md)
+  * [第五章 免費自由世界的工作型態 - 虹彩心光服務業](chapter1/di-wu-zhang-mian-fei-zi-you-shi-jie-de-gong-zuo-xing-tai-hong-cai-xin-guang-fu-wu-ye.md)
 
